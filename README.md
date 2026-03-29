@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <sub><i>Note: This is my primary professional profile. My previous account is under manual review by GitHub Support.</i></sub>
+    <i>Note: This is my primary professional profile. My previous account is under manual review by GitHub Support.</i>
   </p>
 
   <br/>
